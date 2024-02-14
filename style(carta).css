@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+    color: maroon;
+}
+
+
+div.fondo {
+    background-color: bisque;
+    width: 1570px;
+    height: 750px;
+}
+
+p {
+    color: brown;
+}
